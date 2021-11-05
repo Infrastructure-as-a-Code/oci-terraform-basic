@@ -23,6 +23,6 @@ Passo a passo para executar o módulo no Resource Manager
 
 ## URLs
 Incluir os endereços para consulta de:
-- Regiões
-- Shapes
-- etc
+- Regiões: https://docs.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm
+- Shapes: https://docs.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm
+- Imagens: https://docs.oracle.com/en-us/iaas/Content/Compute/References/images.htm
