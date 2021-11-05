@@ -26,3 +26,4 @@ Incluir os endereços para consulta de:
 - Regiões: https://docs.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm
 - Shapes: https://docs.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm
 - Imagens: https://docs.oracle.com/en-us/iaas/Content/Compute/References/images.htm
+  - Todas as imagens: https://docs.oracle.com/en-us/iaas/images/
